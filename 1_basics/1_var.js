@@ -14,6 +14,7 @@ accountCity = "Rajkot"
 */
 
 console.log(accountId);
+console.log(accountId);
 
 accountCity = "Ahmedabad"
 
